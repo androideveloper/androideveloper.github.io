@@ -1,0 +1,16 @@
+{
+  "name": "Roland Egiazaryan",
+  "short_name": "Roland",
+  "description": "Software Engineer Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007AFF",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
